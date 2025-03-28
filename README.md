@@ -25,7 +25,7 @@ if문과 switch문 (If and Switch)
 reduce 함수 키노트 (Reduce)
 객체 기본기 (Object Basics)
 값 & 레퍼런스 복사 (Copy by Value & Copy by Reference)
-04:02:36 try...catch
+try...catch
 
 2) Class & OOP ⭐️⭐️
 클래스 기본기 (Class Basics)
