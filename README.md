@@ -1,10 +1,12 @@
-https://youtu.be/ZOVG7_41kJE?si=FBzu-RpPMLNx5rnU
+<a href="https://youtu.be/ZOVG7_41kJE?si=FBzu-RpPMLNx5rnU
+">코딩팩토리 js 강의</a>
 
+<pre>
 js 기능 문법 
-
+  
 타임스탬프
 1) 기본기 ⭐️
-
+  
 00:00:00 세팅하기
 00:02:02 Hello World
 00:07:53 주석 (Comment)
@@ -48,3 +50,4 @@ js 기능 문법
 08:04:20 비동기 프로그래밍 소개 (Introduction)
 08:17:57 콜백지옥과 프로미스 (Callback Hell and Promise)
 08:33:24 async await
+</pre>
